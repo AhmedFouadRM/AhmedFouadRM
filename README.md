@@ -44,6 +44,5 @@ AI & ML      : PyTorch, Deep Learning (CNNs), Digital Image Forensics, OpenCV
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedfouadrm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ahmed's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedfouadrm&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=AhmedFouadRM&theme=tokyonight&hide_border=true" alt="Ahmed's GitHub Contributions & Streak" />
 </p>

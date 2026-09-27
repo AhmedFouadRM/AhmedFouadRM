@@ -1,5 +1,5 @@
 # Hi there, I'm Ahmed Fouad 👋
-### Senior Flutter Developer | Mobile Software Engineer | M.Sc. in AI
+### Software Engineer | Flutter Developer | M.Sc. in AI
 
 <p align="left">
   <a href="https://linkedin.com/in/ahmedfouadrm" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -11,7 +11,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 📱 **Senior Mobile Engineer** with **6+ years** in Computer Science and **2+ years** architecting, developing, and deploying enterprise-grade cross-platform apps to the **Apple App Store** and **Google Play Store**.
+- 📱 **Mobile Software Engineer** with **6+ years** in Computer Science and **2+ years** architecting, developing, and deploying enterprise-grade cross-platform apps to the **Apple App Store** and **Google Play Store**.
 - 🏗️ **Core Architecture**: Clean Architecture, BLoC / Cubit, Provider, Retrofit (Code-gen), SQLite / Hive, and secure hardware storage.
 - ⚡ **Real-Time & Native**: WebRTC & ZegoCloud video/audio consultation engines, Fawaterak payment gateway integrations, NFC contactless hardware read/write, and geofencing.
 - 🎓 **Research**: Master of Science in AI (Digital Forensics & Deep Learning) — Published in **Nature Portfolio (*Scientific Reports*)** ([Paper DOI](https://doi.org/10.1038/s41598-025-04203-0)).

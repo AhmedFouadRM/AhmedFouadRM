@@ -9,7 +9,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 📱 **Mobile Application Engineer** with 2+ years of professional experience architecting, developing, and deploying enterprise-grade cross-platform apps to the **Apple App Store** and **Google Play Store**.
+- 📱 **Mobile Application Engineer** with 3+ years of professional experience architecting, developing, and deploying enterprise-grade cross-platform apps to the **Apple App Store** and **Google Play Store**.
 - 🏗️ **Core Architecture:** Clean Architecture, BLoC / Cubit, Provider, Riverpod, Retrofit (Code-gen), SQLite / Hive, and secure hardware storage.
 - ⚡ **Real-Time & Native:** WebRTC & ZegoCloud video/audio consultation engines, Fawaterak payment gateway integrations, NFC contactless hardware read/write, and geofencing.
 - 🎓 **Research:** Master of Science in AI (Digital Forensics & Deep Learning) — Published in **Nature Portfolio (Scientific Reports)** ([Paper DOI](https://doi.org/10.1038/s41598-024-69922-w)).
